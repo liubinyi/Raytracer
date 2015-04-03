@@ -1,0 +1,44 @@
+Times:
+input-00: 1.7 s
+input-01: 1.6 s
+input-02: 2.5 s
+input-03: 3.0 s
+input-04: 2.1 s
+input-05: 4.5 s
+input-06: 4.7 s
+input-07: 5.4 s
+input-08: 6.0 s
+input-09: 18.3 s
+input-10: 15.2 s
+input-11: 20.8 s
+input-12: 28.2 s
+
+Command Line Argument:
+input-00: java Scene input-00.txt
+input-01: java Scene input-01.txt
+input-02: java Scene input-02.txt
+input-03: java Scene input-03.txt
+input-04: java Scene input-04.txt
+input-05: java Scene input-05.txt
+input-06: java Scene input-06.txt
+input-07: java Scene input-07.txt
+input-08: java Scene input-08.txt
+input-09: java Scene input-09.txt
+input-10: java Scene input-10.txt
+input-11: java Scene input-11.txt
+input-12: java Scene input-12.txt
+
+Features:
+input-00: Diffuse Lighting of Sphere
+input-01: Specular Lighting of Sphere
+input-02: Shadows with Spheres (with Directional Light)
+input-03: Shadows with Spheres (with Point Light)
+input-04: Shading of Triangle
+input-05: Shadowing with Sphere on Triangle
+input-06: Ambient Lighting of Ellipsoid
+input-07: Rotation and Translation of Triangle
+input-08: Translation of Sphere
+input-09: Reflection and Recursion on Spheres
+input-10: Reflection and Shadowing with Multiple Spheres and Triangle
+input-11: Translation and Reflection of Multiple Spheres
+input-12: Parses Obj File, Translation and Rotation of Triangles, and Reflection
